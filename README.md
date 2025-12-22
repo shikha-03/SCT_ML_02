@@ -56,18 +56,14 @@ Open task2.ipynb in Jupyter/Colab and run all cells to reproduce preprocessing, 
 ​
 
 # Technologies used
-Python.
-​
-NumPy, pandas for data manipulation.
-​
-Matplotlib, Seaborn for visualization.
-​
+Python.​
+NumPy, pandas for data manipulation.​
+Matplotlib, Seaborn for visualization.​
 Scikit-learn for K-Means clustering and evaluation metrics.
 ​
 
 # Results
-Grouped customers into meaningful segments using K-Means clustering based on purchase history.
-​
+Grouped customers into meaningful segments using K-Means clustering based on purchase history.​
 Exported a labeled dataset (clustered_customers.csv) that can be used for marketing and business strategy.
 ​
 
